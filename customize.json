@@ -1,0 +1,31 @@
+{
+  "greeting": "Ê ê,",
+  "name": "Thảo Nguyên(Bé Đào)",
+  "greetingText": "Hôm nay chủ tiệc là bạn đó, chuẩn bị bị chọc nè!",
+  "wishText": "Chúc tuổi mới bớt cà khịa tụi tui xíu thôi, còn hạnh phúc thì gấp đôi!",
+  "imagePath": "img/lydia2.png",
+  "text1": "Hôm nay là sinh nhật của bạn!!! :D",
+  "textInChatBox": "Happy birthday Bé Đào! Chúc luôn vui vẻ, ăn không mập, ngủ nướng vẫn xinh!",
+  "sendButtonLabel": "Bắn đi!",
+  "text2": "Hôm nay ai không cười là bị phạt ăn bánh!",
+  "text3": "Mình đã suy nghĩ rất lâu",
+  "text4": "Mình nhận ra là mình muốn làm một điều",
+  "text4Adjective": "khá bựa mà dễ thương",
+  "text5Entry": "Bởi vì,",
+  "text5Content": "Thảo Nguyên là chiếc nắng ngọt của ngày hôm nay",
+  "smiley": ":)",
+  "bigTextPart1": "Old",
+  "bigTextPart2": "fart!",
+  "wishHeading": "Chúc mừng sinh nhật, Bé Đào ơi!",
+  "outroText": "Hy vọng bạn thích món quà nho nhỏ này!",
+  "replayText": "Nếu thích, bạn có thể xem lại lần nữa nha!",
+  "outroSmiley": ":)",
+  "music": "./music/bgMusic.mp3",
+  "fonts": [
+    {
+      "name": "LXGW WenKai",
+      "path": "./fonts/LXGWWenKai-Regular.ttf"
+    }
+  ]
+}
+
